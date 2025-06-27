@@ -1,6 +1,6 @@
 # 🛠️ Django-Relacional
 
-Proyecto académico para la UTN Villa María. La aplicación demuestra cómo integrar **Django** con **PostgreSQL** utilizando **Docker** y contenedores.
+Proyecto académico para UTN Villa María, **Catedra:** Bases de Datos . La aplicación demuestra cómo integrar **Django** con **PostgreSQL** utilizando **Docker** y contenedores.
 
 ---
 
