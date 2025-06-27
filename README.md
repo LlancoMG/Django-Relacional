@@ -23,8 +23,8 @@ Proyecto académico para UTN Villa María, **Catedra:** Bases de Datos . La apli
 
 ```bash
 git clone https://github.com/Zaca-123/Django-Relacional.git
-````
 cd Django-Relacional
+````
 
 ## 2. Levantar los contenedores
 ````
